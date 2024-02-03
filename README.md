@@ -3,6 +3,7 @@ Find The Path
 HOW TO USE:-
 
 -> Compile the source code to the target machine and run the compiled file.
+
 --------------------------------------------------------------------------------------------
 HOW IT WORKS:-
 
@@ -56,4 +57,5 @@ The source code contains some global variables with default values which can be 
 -> displayOnlyBest - Displays only the best test subject in each generation
 
 -> leaveTrail - Displays the path followed by test subjects in each generation
+
 -------------------------------------------------------------------------------------------
